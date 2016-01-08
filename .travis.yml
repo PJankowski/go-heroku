@@ -8,3 +8,4 @@ deploy:
   app: go-herku
   on:
     repo: PJankowski/go-heroku
+  skip_cleanup: true
